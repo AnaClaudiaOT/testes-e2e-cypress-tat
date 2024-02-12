@@ -1,0 +1,17 @@
+
+> testes-e2e-cypress@1.0.0 lint
+> eslint cypress/**/*.js && eslint cypress.config.js
+
+
+C:\Users\aadv\OneDrive - GFT Technologies SE\Desktop\projetos-cod\estudos\testes-e2e-cypress\cypress\e2e\spec.cy.js
+  1:34  error  Expected linebreaks to be 'LF' but found 'CRLF'    linebreak-style
+  2:1   error  Expected indentation of 1 tab but found 2 spaces   indent
+  2:23  error  Expected linebreaks to be 'LF' but found 'CRLF'    linebreak-style
+  3:1   error  Expected indentation of 2 tabs but found 4 spaces  indent
+  3:43  error  Expected linebreaks to be 'LF' but found 'CRLF'    linebreak-style
+  4:1   error  Expected indentation of 1 tab but found 2 spaces   indent
+  4:5   error  Expected linebreaks to be 'LF' but found 'CRLF'    linebreak-style
+
+✖ 7 problems (7 errors, 0 warnings)
+  7 errors and 0 warnings potentially fixable with the `--fix` option.
+
