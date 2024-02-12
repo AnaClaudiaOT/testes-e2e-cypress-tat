@@ -1,3 +1,5 @@
+/* eslint-disable linebreak-style */
+// eslint-disable-next-line linebreak-style
 /* eslint-disable cypress/no-unnecessary-waiting */
 /* eslint-disable linebreak-style */
 // cypress/e2e/login.cy.js
